@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "iPhone 15",
+    "Chip": "A16 Bionic",
+    "Size": null,
+    "Storage": 128,
+    "Memory": 6,
+    "Price": 999,
+    "ReleaseYear": 2023,
+    "Stock": 998,
+    "OS": "iOS"
+  },
+  {
+    "Name": "iPhone 14",
+    "Chip": "A15 Bionic",
+    "Size": null,
+    "Storage": 128,
+    "Memory": 6,
+    "Price": 999,
+    "ReleaseYear": 2022,
+    "Stock": 999,
+    "OS": "iOS"
+  },
+  {
+    "Name": "iPhone 13",
+    "Chip": "A13 Bionic",
+    "Size": null,
+    "Storage": 128,
+    "Memory": 6,
+    "Price": 799,
+    "ReleaseYear": 2021,
+    "Stock": 999,
+    "OS": "iOS"
+  },
+  {
+    "Name": "iPhone 12",
+    "Chip": "A12 Bionic",
+    "Size": null,
+    "Storage": 64,
+    "Memory": 6,
+    "Price": 749,
+    "ReleaseYear": 2020,
+    "Stock": 997,
+    "OS": "iOS"
+  },
+  {
+    "Name": "Galaxy S24",
+    "Chip": "Snapdragon 8 Gen 3",
+    "Size": null,
+    "Storage": 128,
+    "Memory": 16,
+    "Price": 799,
+    "ReleaseYear": 2024,
+    "Stock": 999,
+    "OS": "Android"
+  },
+  {
+    "Name": "Galaxy S23",
+    "Chip": "Snapdragon 8 Gen 2",
+    "Size": null,
+    "Storage": 128,
+    "Memory": 8,
+    "Price": 699,
+    "ReleaseYear": 2023,
+    "Stock": 998,
+    "OS": "Android"
+  },
+  {
+    "Name": "Galaxy note 10",
+    "Chip": "exynos 810",
+    "Size": null,
+    "Storage": 256,
+    "Memory": 16,
+    "Price": 1199,
+    "ReleaseYear": 2020,
+    "Stock": 400,
+    "OS": "Android"
+  },
+  {
+    "Name": "huawei p10",
+    "Chip": "exynos",
+    "Size": null,
+    "Storage": 64,
+    "Memory": 8,
+    "Price": 999,
+    "ReleaseYear": 2020,
+    "Stock": 997,
+    "OS": "Android"
+  },
+  {
+    "Name": "iPhone 16",
+    "Chip": "a15",
+    "Size": null,
+    "Storage": 64,
+    "Memory": 8,
+    "Price": 999,
+    "ReleaseYear": 2025,
+    "Stock": 88,
+    "OS": "iOS"
+  }
+]
