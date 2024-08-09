@@ -7,6 +7,7 @@ the project almost seems like a blend of OOP and FP, nonetheless it was a very p
 class in sem 2 2024
 - If I were to attempt this again I would reogranise alot of the classes to be more OOP based, as well as perhaps attempt to link this to a 
 Blazor webapp so that I could produce a webpage.
+- The phonesJSON files are located under "Beginner Projects in c#"
 ************************************************************************************************************************************************/
 
 using System;
